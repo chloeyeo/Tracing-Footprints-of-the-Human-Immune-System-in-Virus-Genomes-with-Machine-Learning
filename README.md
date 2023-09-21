@@ -31,9 +31,10 @@ Expected Outcomes:
 Significance and Applications:
 This research has significant implications for the fields of virology, immunology, and vaccine development. The outcomes of this study can inform the design of vaccines and antiviral therapies, improve our understanding of virus-host interactions, and contribute to the development of more effective strategies for controlling infectious diseases.
 
-Timeline (including data collection, model development, evaluation, and analysis):
+Timeline (including data collection, model development, evaluation, and analysis)
 
-Month 1 - Planning and Data Collection:
+Month 1 - Planning and Data Collection
+
 Week 1:
 - Define precise research objectives.
 - Conduct a brief literature review to identify relevant papers and datasets.
@@ -46,7 +47,8 @@ Week 4:
 - Develop a clear research plan, specifying the machine learning approach you will use.
 - Create a detailed timeline for the remaining weeks.
 
-Month 2 - Data Analysis and Model Development:
+Month 2 - Data Analysis and Model Development
+
 Week 1-2:
 - Continue data preprocessing, including feature engineering.
 - Start developing a machine learning model.
@@ -55,7 +57,8 @@ Week 3-4:
 - Begin model evaluation using available data.
 - Identify initial patterns and insights.
 
-Month 3 - Evaluation, Reporting, and Dissemination:
+Month 3 - Evaluation, Reporting, and Dissemination
+
 Week 1-2:
 - Complete model evaluation using appropriate metrics.
 - Validate findings, if possible, with external data sources.
