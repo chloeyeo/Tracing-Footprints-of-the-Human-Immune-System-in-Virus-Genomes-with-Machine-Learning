@@ -39,10 +39,12 @@ Week 1:
 - Define precise research objectives.
 - Conduct a brief literature review to identify relevant papers and datasets.
 - Formulate research questions.
+
 Week 2-3:
 - Secure access to necessary datasets or gather available data.
 - Begin data preprocessing (cleaning and formatting).
 - Set up a basic project framework (e.g., code repository).
+
 Week 4:
 - Develop a clear research plan, specifying the machine learning approach you will use.
 - Create a detailed timeline for the remaining weeks.
@@ -52,6 +54,7 @@ Month 2 - Data Analysis and Model Development
 Week 1-2:
 - Continue data preprocessing, including feature engineering.
 - Start developing a machine learning model.
+
 Week 3-4:
 - Fine-tune and optimize the machine learning model.
 - Begin model evaluation using available data.
@@ -63,8 +66,10 @@ Week 1-2:
 - Complete model evaluation using appropriate metrics.
 - Validate findings, if possible, with external data sources.
 - Interpret and visualize results.
+
 Week 3:
 - Prepare a concise research report summarizing my findings, methods, and results.
+
 Week 4:
 - Create a presentation summarizing your research.
 - Share my findings with colleagues, advisors, or peers through a seminar or presentation.
