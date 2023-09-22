@@ -6,6 +6,7 @@
 
 ## Paper 1
 ### Title: A heterochromatin inducing protein differentially recognizes self versus foreign genomes
+### DOI: 10.1371/journal.ppat.1009447
 ### Background:
 Heterochromatin plays a crucial role in gene regulation by repressing gene expression. In the context of the human immune system's response to viral infections, changes in chromatin structure, including shifts between heterochromatin and euchromatin states, can impact the expression of immune-related genes. Understanding these chromatin changes may provide insights into how the immune system responds to viruses.
 
