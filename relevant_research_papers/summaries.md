@@ -18,12 +18,18 @@ Heterochromatin can affect the accessibility of DNA to transcription factors and
 ### Summary:
 
 ## Paper 2
-### Title: Virus-Host cell interactions
-### Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7173423/pdf/main.pdf
+### Title: Did viruses evolve as a distinct supergroup from common ancestors of cells?
+### DOI: 10.1093/gbe/evw175
 ### Summary:
 
 ## Paper 3
-### Title:
+### Title: Virus-derived variation in diverse human genomes
+### DOI: 10.1371/journal.pgen.1009324
+### Summary:
+
+## Paper 4
+### Title: Virus-like insertions with sequence signatures similar to those of endogenous nonretroviral RNA viruses in the human genome
+### DOI: 10.1073/pnas.2010758118
 ### Summary:
 
 
