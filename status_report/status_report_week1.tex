@@ -3,8 +3,8 @@
 \usepackage{times}
     \usepackage{fullpage}
     
-    \title{ {{cookiecutter.project_title}}
-    \author{ {{cookiecutter.student_name}} - {{cookiecutter.student_id}} }
+    \title{ {{Tracing Footprints of the Human Immune System in Virus Genomes with Machine Learning}}
+    \author{ {{Chae-Ryeong Yeo}} - {{2458600y}} }
 
     \begin{document}
     \maketitle
@@ -14,55 +14,36 @@
 
 \section{Status report}
 
-\subsection{Proposal}\label{proposal}
+\subsection{Achievement}\label{proposal}
 
-\subsubsection{Motivation}\label{motivation}
-
-\emph{{[}Clearly motivate the purpose of your project; why someone would
-care about what you are doing{]}}
-
-\subsubsection{Aims}\label{aims}
-
-\emph{{[}Clearly state what the project is intended to do. This should
-be something which is measurable; it should be possible to tell if you
-succeeded{]}}
-
-\subsection{Progress}\label{progress}
-
-\emph{{[}Briefly state your progress so far, as a bulleted list{]}}
-
-\subsection{Problems and risks}\label{problems-and-risks}
-
-\subsubsection{Problems}\label{problems}
-
-\emph{{[}What problems have you had so far, that have held up the
-project?{]}}
-
-\subsubsection{Risks}\label{risks}
-
-\emph{{[}What problems do you foresee in the future and how will you
-mitigate them?{]}}
-
-\subsection{Plan}\label{plan}
-
-\emph{{[}Time plan, in roughly weekly to monthly blocks, up until
-submission week{]}}
-
-    
-\subsection{Ethics and data}\label{ethics}
-\emph{Specify what ethical approval you need to do your evaluation and how you are approaching it. This is mandatory. 
-Specify what data you expect to collect in your evaluation. Explain how this data will help you evaluate your project.
-}
-
-Options for ethics:
-\item This project does not involve human subjects or data. No approval required.
-\item I have verified that the ethics checklist will apply to any evaluation I need to do. I will sign and complete the checklist.
-\item I have sought ethical guidance from the School's ethics convener and I will:
 \begin{itemize}
-    \item Proceed under specific instructions from the Ethics convener (e.g. modified checklist).
-    \item Apply for College Ethics Board approval.
-    \item Other procedure (give details)
-\end{itemize}    
+    \tightlist
+\item Created a directory structure for project and stored in version control on remote private GitHub repository.
+\item Created research proposal and project timeline.
+\item Read through 4 relevant research papers and briefly summarised each.
+\item Stated the Bioinformatics Specialisation course in Coursera to familiarise with bioinformatics and genomic concepts.
+\item Came up with 4 different machine learning ways to approach the project, 3 of them being a classification problem and 1 being a regression problem approach.
+\end{itemize}
+
+\subsection{Questions}\label{progress}
+
+\begin{itemize}
+    \tightlist
+\item Meaning of topic: uncover subtle/hidden clues or indications of the human immune system's influence on virus genomes? Similarities of human T cell genome and virus genome? Must it be between the human immune system cell genome and a virus genome where the virus has attacked that human before?
+\item Are supervised or unsupervised learning methods appropriate? (Or should I use reinforcement learning to maximize reward signals? What will this reward signal be for?) I think unsupervised learning is most appropriate because we don’t know the similarities between human immune system and virus genome. However, for some similar proteins found for both virus genome and human immune cells, I can use supervised learning - however, for what goal? For classification - whether it belongs to a virus or human? I think this is not the goal of this project. But I’m not sure what the goal is for the machine learning algorithm. Must it first know which are the footprints of the human immune system in the virus genome and try to find the similar parts to that in the virus genome for as many viruses as possible?
+\item Am I only concerned about the impact of the human immune system on the virus genome, and not the other way around?
+\item Is my project a research-focused project? Or is it a software focused project? Is my goal to produce an end to end learning system?
+\end{itemize}
+
+\subsection{Plan for rest of week 1, and week 2}\label{plan}
+
+\begin{itemize}
+    \tightlist
+\item Create a directory just for relevant research papers and its summaries, and read up on at least 10 more related research papers, summarise the findings and note down which parts of it can also be implemented for my project.
+\item Familiarise with bioinformatics concepts - continue the Bioinformatics Specialisation course in Coursera and always keep track of relevant findings.
+\item Write the minute on Moodle and review afterwards.
+\item Practice implementing different machine learning models for the first time in Python and Jupyter Notebook.
+\end{itemize}
 
 
 \end{document}
