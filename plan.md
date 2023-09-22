@@ -1,15 +1,15 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* Tracing Footprints of the Human Immune System in Virus Genomes with Machine Learning
+* Chae-Ryeong Yeo
+* 2458600Y
+* Ke, Yuan
 
 Week-by-week plan for the whole project. Update this as you go along.
 
 ## Winter semester
 
-* **Week 1**
+* **Week 1** Write status report, read relevant research paper, think about how I can approach the problem.
 * **Week 2**
 * **Week 3**
 * **Week 4**

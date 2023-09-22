@@ -1,9 +1,9 @@
 # Timelog
 
-* PROJECT NAME
-* YOUR NAME
-* STUDENT_ID
-* SUPERVISOR NAME
+* Tracing Footprints of the Human Immune System in Virus Genomes with Machine Learning
+* Chae-Ryeong Yeo
+* 2458600Y
+* Ke, Yuan
 
 ## Guidance
 
@@ -14,13 +14,16 @@
 
 ## Week 1
 
-### 19 Oct 2019
+### 20 Sept 2023
+* *3 hours* Read and skimmed through 5 relevant research papers using Mendeley
 
-* *4 hours* Read the project guidance notes
-* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled  
+### 21 Sept 2023
 
-## 20 Oct 2019
+* *2.5 hours* Read the project guidance notes
+* *1 hour* Read the relevant dissertation paper written by previous CS student
+* *0.5 hour* Created GitHub repository and cloned the cookiecutter for the projects
+* *1 hour* Wrote status report for week 1
 
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness
+## 22 Sept 2023
+
+* *? hour* meeting with supervisor
