@@ -35,6 +35,12 @@ Heterochromatin can affect the accessibility of DNA to transcription factors and
 ## Paper 7
 ### Conserved Footprints of APOBEC3G on Hypermutated Human Immunodeficiency Virus Type 1 and Human Endogenous Retrovirus HERV-K(HML2) Sequences
 ### https://doi.org/10.1128/JVI.00584-08
+What did authors try to accomplish:
+Find, from virus genome including patient-derived hypermutated HIV-1 genomes, signatures of hypermutation, guanine-to-adenine (G-to-A) hypermutation that strongly correlates to the hypermutation induced in vitro by the human polynucleotide cytidine deaminase APOBEC3G (hA3G) which is an antiviral restriction factor that induces this G-to-A hypermutation in retroviruses. This is to demonstrate the involvement of this restriction factor, APOBEC3G (hA3G), in defense against retroviral attacks over millions of years of human evolution.
+
+What were the key elements of the approach:
+
+What can you use yourself:
 It is the APOBEC3G protein that is the footprint of human immune system found in virus genome.
 Outcome: I can find out what type of viruses have this protein found in their genome.
 
