@@ -49,6 +49,10 @@ Outcome: I can find out what type of viruses have this protein found in their ge
 ### https://doi.org/10.4049/jimmunol.1501504
 Backs up paper 7
 
+## Paper 9
+### Machine learning research towards combating COVID-19: Virus detection, spread prevention, and medical assistance
+### https://doi.org/10.1016/j.jbi.2021.103751
+
 
 
 
