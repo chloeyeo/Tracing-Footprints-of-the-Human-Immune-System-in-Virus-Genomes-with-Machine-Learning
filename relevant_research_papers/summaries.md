@@ -53,6 +53,53 @@ Backs up paper 7
 ### Machine learning research towards combating COVID-19: Virus detection, spread prevention, and medical assistance
 ### https://doi.org/10.1016/j.jbi.2021.103751
 
+## Paper 10
+### DeepTCR is a deep learning framework for revealing sequence concepts within T-cell repertoires
+### https://doi.org/10.1038/s41467-021-21879-w
+
+## Paper 11
+### Covid-19 and Artificial Intelligence: Genome sequencing, drug development and vaccine discovery
+### https://doi.org/10.1016/j.jiph.2022.01.011
+
+## Paper 12
+### Prediction of human-virus protein-protein interactions through a sequence embedding-based machine learning method
+### https://doi.org/10.1016/j.csbj.2019.12.005
+
+## Paper 13
+### A machine learning approach for viral genome classification
+### https://doi.org/10.1186/s12859-017-1602-3
+
+## Paper 14
+### Prospective Artificial Intelligence to Dissect the Dengue Immune Response and Discover Therapeutics
+### https://doi.org/10.3389/fimmu.2021.574411
+
+## Paper 15
+### Machine-learning-based identification of factors that influence molecular virus-host interactions
+### https://doi.org/10.5525/gla.thesis.82931
+
+## Paper 16
+### Predicting host taxonomic information from viral genomes: A comparison of feature representations
+### https://doi.org/10.1371/journal.pcbi.1007894
+
+## Paper 17
+### Identifying and prioritizing potential human-infecting viruses from their genome sequences
+### https://doi.org/10.1371/journal.pbio.3001390
+
+## Paper 18
+### Human immune system variation
+### https://doi.org/10.1038/nri.2016.125
+
+## Paper 19
+### Evolution of Immune Systems From Viruses and Transposable Elements
+### https://doi.org/10.3389/fmicb.2019.00051
+
+## Paper 20
+### Machine Learning for detection of viral sequences in human metagenomic datasets
+### https://doi.org/10.1186/s12859-018-2340-x
+
+## Paper 21
+### ViraMiner: Deep learning on raw DNA sequences for identifying viral genomes in human samples
+### https://doi.org/10.1371/journal.pone.0222271
 
 
 
