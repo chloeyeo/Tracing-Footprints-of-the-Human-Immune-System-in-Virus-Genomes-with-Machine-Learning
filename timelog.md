@@ -24,6 +24,6 @@
 * *0.5 hour* Created GitHub repository and cloned the cookiecutter for the projects
 * *1 hour* Wrote status report for week 1
 
-## 22 Sept 2023
+### 23 Sept 2023
 
-* *? hour* meeting with supervisor
+* *0.5 hour* searching for relevant research papers
