@@ -101,6 +101,11 @@ Backs up paper 7
 ### ViraMiner: Deep learning on raw DNA sequences for identifying viral genomes in human samples
 ### https://doi.org/10.1371/journal.pone.0222271
 
+## Paper 22
+### Host Immune Response Driving SARS-CoV-2 Evolution
+### https://doi.org/10.3390/v12101095
+
+
 
 
 
