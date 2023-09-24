@@ -105,6 +105,10 @@ Backs up paper 7
 ### Host Immune Response Driving SARS-CoV-2 Evolution
 ### https://doi.org/10.3390/v12101095
 
+## Paper 23
+### Mechanisms of viral mutation
+### https://doi.org/10.1007/s00018-016-2299-6
+
 
 
 
