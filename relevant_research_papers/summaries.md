@@ -76,6 +76,7 @@ Backs up paper 7
 ## Paper 15
 ### Machine-learning-based identification of factors that influence molecular virus-host interactions
 ### https://doi.org/10.5525/gla.thesis.82931
+"Due to a dependency on living entities, viruses have to rapidly exploit host systems for their replication and persistence. This promotes viruses to establish intimate molecular relationships with their hosts, a coevolutionary relationship that constantly shapes their genome through the need to maintain virus-host molecular interactions."
 
 ## Paper 16
 ### Predicting host taxonomic information from viral genomes: A comparison of feature representations
