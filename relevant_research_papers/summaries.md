@@ -105,6 +105,7 @@ Backs up paper 7
 ## Paper 22
 ### Host Immune Response Driving SARS-CoV-2 Evolution
 ### https://doi.org/10.3390/v12101095
+"In this work, we present a comprehensive genotyping analysis of existing SARS-CoV-2 mutations. We reveal that host immune response via APOBEC and ADAR gene editing gives rise to near 65% of recorded mutations."
 
 ## Paper 23
 ### Mechanisms of viral mutation
