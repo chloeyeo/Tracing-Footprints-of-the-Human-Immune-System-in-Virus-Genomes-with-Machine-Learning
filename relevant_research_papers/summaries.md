@@ -154,8 +154,9 @@ Backs up paper 7
 ### Hypermutation of an Ancient Human Retrovirus by APOBEC3G
 ### https://doi.org/10.1128/jvi.00751-08
 
-
-
+## Paper 32
+### Identification of Clinically Relevant HIV Vif Protein Motif Mutations through Machine Learning and Undersampling
+### https://doi.org/10.3390/cells12050772
 
 
 
