@@ -27,3 +27,7 @@
 ### 23 Sept 2023
 
 * *0.5 hour* searching for relevant research papers
+
+### 24 Sept 2023
+
+* *4 hours* reading paper 15
