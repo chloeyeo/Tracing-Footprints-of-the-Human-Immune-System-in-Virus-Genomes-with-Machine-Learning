@@ -111,6 +111,18 @@ Backs up paper 7
 ### Mechanisms of viral mutation
 ### https://doi.org/10.1007/s00018-016-2299-6
 
+## Paper 24
+### Evidence for host-dependent RNA editing in the transcriptome of SARS-CoV-2
+### https://doi.org/10.1126/sciadv.abb5813
+
+## Paper 25
+### DNA Editing by APOBECs: A Genomic Preserver and Transformer
+### https://doi.org/10.1016/j.tig.2015.10.005
+
+## Paper 26
+### Diverse functions for DNA and RNA editing in the immune system
+### https://doi.org/10.4161/rna.7.2.11344
+
 
 
 
