@@ -122,6 +122,9 @@ Backs up paper 7
 ## Paper 26
 ### Diverse functions for DNA and RNA editing in the immune system
 ### https://doi.org/10.4161/rna.7.2.11344
+"the AID/APOBEC cytidine deaminases (which catalyze the deamination of cytidine to uridine) "
+"other cytidine deaminases (APOBEC3) restrict retroviral infection by editing viral retrogenomes."
+
 
 
 
