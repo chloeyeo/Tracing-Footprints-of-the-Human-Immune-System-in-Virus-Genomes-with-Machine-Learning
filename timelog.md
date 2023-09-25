@@ -15,14 +15,14 @@
 ## Week 1
 
 ### 20 Sept 2023
-* *3 hours* Read and skimmed through 5 relevant research papers using Mendeley
+* *3 hours* read and skimmed through 5 relevant research papers using Mendeley
 
 ### 21 Sept 2023
 
-* *2.5 hours* Read the project guidance notes
-* *1 hour* Read the relevant dissertation paper written by previous CS student
-* *0.5 hour* Created GitHub repository and cloned the cookiecutter for the projects
-* *1 hour* Wrote status report for week 1
+* *2.5 hours* read the project guidance notes
+* *1 hour* read the relevant dissertation paper written by previous CS student
+* *0.5 hour* created GitHub repository and cloned the cookiecutter for the projects
+* *1 hour* wrote status report for week 1
 
 ### 23 Sept 2023
 
