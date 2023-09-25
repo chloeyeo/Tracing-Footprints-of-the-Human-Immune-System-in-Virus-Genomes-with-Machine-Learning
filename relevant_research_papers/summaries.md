@@ -122,14 +122,16 @@ Backs up paper 7
 ## Paper 26
 ### Diverse functions for DNA and RNA editing in the immune system
 ### https://doi.org/10.4161/rna.7.2.11344
-"the AID/APOBEC cytidine deaminases (which catalyze the deamination of cytidine to uridine) "
-"other cytidine deaminases (APOBEC3) restrict retroviral infection by editing viral retrogenomes."
-"APOBEC3G  restricts  HIV  infection"
-"APOBEC3 family cytidine deaminases have diverse antiviral activities"
-"Aside from APOBEC3G, additional family members  APOBEC3B  and  APOBEC3F  can  also  restrict  HIV replication"
-"Apart from HIV, it seems that many retroviruses are some-what  susceptible  to  members  of  the  APOBEC3  subfamily; Murine   leukemia   virus   (MLV),   Equine   infectious   anemia virus  (EAIV),  foamy  retroviruses  and  even  hepatitis  B  virus (HBV)  can  be  restricted  by  different  APOBEC3  deaminases"
+- "the AID/APOBEC cytidine deaminases (which catalyze the deamination of cytidine to uridine) "
+- "other cytidine deaminases (APOBEC3) restrict retroviral infection by editing viral retrogenomes."
+- "APOBEC3G  restricts  HIV  infection"
+- "APOBEC3 family cytidine deaminases have diverse antiviral activities"
+- "Aside from APOBEC3G, additional family members  APOBEC3B  and  APOBEC3F  can  also  restrict  HIV replication"
+
+- "Apart from HIV, it seems that many retroviruses are some-what  susceptible  to  members  of  the  APOBEC3  subfamily; Murine   leukemia   virus   (MLV),   Equine   infectious   anemia virus  (EAIV),  foamy  retroviruses  and  even  hepatitis  B  virus (HBV)  can  be  restricted  by  different  APOBEC3  deaminases"
 "APOBEC3A can dramatically inhibit replication of adeno-associated virus (A AV), a small single-stranded DNA parvovirus that replicates via the host cell polymerase machin-er y"
-"Endogenous  retroelements  are  suppressed  by  APOBEC3 family  cytidine  deaminases.  The  suppressive  activity  of  the APOBEC3  proteins  is  not  limited  to  exogenous  retroviruses; several family members have also been demonstrated to restrict a  variety  of  endogeneous  retroelements."
+
+- "Endogenous  retroelements  are  suppressed  by  APOBEC3 family  cytidine  deaminases.  The  suppressive  activity  of  the APOBEC3  proteins  is  not  limited  to  exogenous  retroviruses; several family members have also been demonstrated to restrict a  variety  of  endogeneous  retroelements."
 "Perhaps  retroelement  inhibition represents  an  “original”  function  of  the  APOBEC3  proteins; activity against exogenous lentiviruses may have been co-opted later  in  the  evolutionary  history  of  this  gene  family.  Indeed, the  apparent  selective  pressures  on  the  APOBEC3  genes  pre-date the emergence of modern primate lentiviruses by millions of  years.54,55 In addition, the evolutionary expansion of the APOBEC3 family correlates with a dramatic decrease of endog-enous  retroelement  activity  in  primate  genomes  as  compared to  rodents.65  Thus,  the  APOBEC3  proteins  may  represent  an ancient  defense  system  for  protecting  genome  integrity,  be  it from actively mobile endogenous retroelements or the primitive retroviruses from which they were derived."
 
 
