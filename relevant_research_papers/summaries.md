@@ -138,6 +138,21 @@ Backs up paper 7
 ### Rapid evolution of primate antiviral enzyme APOBEC3G
 ### https://doi.org/10.1093/hmg/ddh183
 
+## Paper 28
+### The Battle between Retroviruses and APOBEC3 Genes: Its Past and Present
+### https://doi.org/10.3390/v13010124
+
+## Paper 29
+### Human APOBEC3 Induced Mutation of Human Immunodeficiency Virus Type-1 Contributes to Adaptation and Evolution in Natural Infection
+### https://doi.org/10.1371/journal.ppat.1004281
+
+## Paper 30
+### Hypermutation of hepatitis B virus genomes by APOBEC3G, APOBEC3C and APOBEC3H
+### https://doi.org/10.1099/vir.0.83507-0
+
+## Paper 31
+### Hypermutation of an Ancient Human Retrovirus by APOBEC3G
+### https://doi.org/10.1128/jvi.00751-08
 
 
 
