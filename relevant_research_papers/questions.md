@@ -1,0 +1,1 @@
+- Do we want to predict similarities with human immune system that the virus has or will have, from looking at its genome?
