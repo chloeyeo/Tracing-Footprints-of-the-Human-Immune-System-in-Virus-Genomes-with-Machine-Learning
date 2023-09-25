@@ -158,5 +158,7 @@ Backs up paper 7
 ### Identification of Clinically Relevant HIV Vif Protein Motif Mutations through Machine Learning and Undersampling
 ### https://doi.org/10.3390/cells12050772
 
-
+## Paper 33
+### Deep learning models in genomics; are we there yet?
+### https://doi.org/10.1016/j.csbj.2020.06.017
 
