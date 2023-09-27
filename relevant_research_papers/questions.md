@@ -3,3 +3,4 @@
 - Effect of evolution of APOBEC3G on evolution of virus genome?
 - Can I use deep learning?
 - What is my end goal? Do I want to classify viruses into those whose genes have the relevant proteins caused by host immune response and those who don't have those proteins?
+- What data do I even want? 
