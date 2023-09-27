@@ -2,3 +2,4 @@
 - By footprint, does it mean evidence of human immune system having an influence on the virus genome? e.g. cytidine deaminases like APOBEC3 edit viral retrogenomes to restrict retroviral infection.
 - Effect of evolution of APOBEC3G on evolution of virus genome?
 - Can I use deep learning?
+- What is my end goal? Do I want to classify viruses into those whose genes have the relevant proteins caused by host immune response and those who don't have those proteins?
