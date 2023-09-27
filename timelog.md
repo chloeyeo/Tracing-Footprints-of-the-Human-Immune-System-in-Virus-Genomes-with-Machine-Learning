@@ -33,6 +33,6 @@
 * *4 hours* reading papers 15,22,26 and coming up with relevant questions
 * *1 hour* searching for relevant research papers
 
-### 25 Sept 2023
+### 27 Sept 2023
 
-*
+* *1 hour* reading paper
