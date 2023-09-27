@@ -161,4 +161,6 @@ Backs up paper 7
 ## Paper 33
 ### Deep learning models in genomics; are we there yet?
 ### https://doi.org/10.1016/j.csbj.2020.06.017
-
+- "The main limitation of ML compared to DL is that these methods cannot handle efficiently natural data in their raw form"
+- "in the case of DL, the amount of training data is more demanding and drastically affect the predicting value of the trained model"
+- "DL has also proven to provide models with higher accuracy that are efficient at discovering patterns in high-dimensional data"
