@@ -76,7 +76,14 @@ Backs up paper 7
 ## Paper 15
 ### Machine-learning-based identification of factors that influence molecular virus-host interactions
 ### https://doi.org/10.5525/gla.thesis.82931
-"Due to a dependency on living entities, viruses have to rapidly exploit host systems for their replication and persistence. This promotes viruses to establish intimate molecular relationships with their hosts, a coevolutionary relationship that constantly shapes their genome through the need to maintain virus-host molecular interactions."
+- "Due to a dependency on living entities, viruses have to rapidly exploit host systems for their replication and persistence. This promotes viruses to establish intimate molecular relationships with their hosts, a coevolutionary relationship that constantly shapes their genome through the need to maintain virus-host molecular interactions."
+- "Viruses can be catalogued into seven Baltimore classes based on the genetic materials present in their virions...dsDNA, double-stranded DNA; ssDNA, single-stranded DNA; dsRNA, double-stranded RNA; +ssRNA, positive sense single-stranded RNA; -ssRNA, negative sense singlestranded RNA; ssRNA-RT, single-stranded RNA with a DNA intermediate; dsDNA-RT, double-stranded DNA with a RNA intermediate."
+- "GenBank - Database compiling publicly available DNA sequences."
+- "GISAID - Database compiling virus-related genetic, clinical and epidemiological data."
+- "NCBI - Virus Database compiling viral sequences."
+- "viruses.STRING - Database compiling virus-host PPIs."
+- "VirHostNet - Database compiling virus-host PPIs."
+- "VirusMentha - Database compiling virus-host PPIs."
 
 ## Paper 16
 ### Predicting host taxonomic information from viral genomes: A comparison of feature representations
