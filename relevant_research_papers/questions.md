@@ -1,5 +1,5 @@
 - Do we want to predict similarities with human immune system that the virus has or will have, from looking at its genome?
-- By footprint, does it mean evidence of human immune system having an influence on the virus genome? e.g. cytidine deaminases like APOBEC3 edit viral retrogenomes to restrict retroviral infection.
+- By footprint, does it mean evidence of human immune system having an influence on the virus genome? e.g. cytidine deaminases like APOBEC3 that edit viral retrogenomes to restrict retroviral infection.
 - Am I only concerned about the impact of the human immune system on the virus genome, and not the other way around?
 - Effect of evolution of APOBEC3G on evolution of virus genome?
 - Can I use deep learning?
