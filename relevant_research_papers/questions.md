@@ -6,3 +6,4 @@
 - What is my end goal? Do I want to classify viruses into those whose genes have the relevant proteins caused by host immune response and those who don't have those proteins?
 - What data do I even want?
 - Should I use unsupervised learning for only those viruses that have the proteins present that are the result of host immune response towards virus or should I use unsupervised learning for all viruses generally.
+- 1) what data do I want 2) what ML approach should I use
