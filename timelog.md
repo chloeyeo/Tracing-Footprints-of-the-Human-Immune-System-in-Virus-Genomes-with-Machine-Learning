@@ -41,4 +41,4 @@
 * *1 hour* learning about data collection and pre-processing
 
 ### 28 Sept 2023
-* **
+* *3 hours* learning implementation of k-means clustering in python
