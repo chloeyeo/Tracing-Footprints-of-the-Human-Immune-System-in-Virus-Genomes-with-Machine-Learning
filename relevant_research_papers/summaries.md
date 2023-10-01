@@ -179,3 +179,15 @@ Backs up paper 7
 ## Paper 35
 ### Predicting host taxonomic information from viral genomes: A comparison of feature representations
 ### https://doi.org/10.1371/journal.pcbi.1007894
+
+## Paper 36
+### Application of machine learning in understanding plant virus pathogenesis: trends and perspectives on emergence, diagnosis, host-virus interplay and management
+### https://doi.org/10.1186/s12985-022-01767-5
+
+## Paper 37
+### Mining virus genomes for host predictive signals
+### https://doi.org/10.5525/gla.thesis.82842
+
+## Paper 38
+### Mining genome data for endogenous viral elements and interferon stimulated genes: insights into host virus co-evolution
+### http://theses.gla.ac.uk/id/eprint/30887
