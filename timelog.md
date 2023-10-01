@@ -42,3 +42,6 @@
 
 ### 28 Sept 2023
 * *3 hours* learning implementation of k-means clustering in python
+
+### 1 Oct 2023
+* *3 hours* learning performance metrics for both supervised and unsupervised learning; searching and reading relevant research papers.
