@@ -9,4 +9,4 @@
 - 1. what data do I want
   2. what ML approach should I use
 - Do immune cells of human hosts from different regions across the world or different age or gender have a difference on how it affects virus genomes?
-
+- If we know the effect of immune response on virus gene, can this help introduce more preventive measures against the virus?
