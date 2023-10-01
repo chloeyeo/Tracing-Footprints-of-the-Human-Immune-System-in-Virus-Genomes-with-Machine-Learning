@@ -183,6 +183,8 @@ Backs up paper 7
 ## Paper 36
 ### Application of machine learning in understanding plant virus pathogenesis: trends and perspectives on emergence, diagnosis, host-virus interplay and management
 ### https://doi.org/10.1186/s12985-022-01767-5
+- "The application of machine learning enables precise diagnosis of plant viral diseases at an early stage. Furthermore, the development of several machine learning-guided bioinformatics platforms has primed plant virologists to understand the host-virus interplay better. In addition, machine learning has tremendous potential in deciphering the pattern of plant virus evolution and emergence as well as in developing viable control options."
+- "Cost-effective technologies such as next generation sequencing (NGS) have made it easier to gather data regarding gene expression, chromosome conformation, genetic variation, traits and diseases of animals and plants, leading to generation of such massive data sets having multiple characteristics."
 
 ## Paper 37
 ### Mining virus genomes for host predictive signals
