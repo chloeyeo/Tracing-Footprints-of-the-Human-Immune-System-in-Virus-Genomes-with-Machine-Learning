@@ -15,15 +15,33 @@
 ## Week 1
 
 ### 20 Sept 2023
-* *3 hours* Read and skimmed through 5 relevant research papers using Mendeley
+* *3 hours* read and skimmed through 5 relevant research papers using Mendeley
 
 ### 21 Sept 2023
 
-* *2.5 hours* Read the project guidance notes
-* *1 hour* Read the relevant dissertation paper written by previous CS student
-* *0.5 hour* Created GitHub repository and cloned the cookiecutter for the projects
-* *1 hour* Wrote status report for week 1
+* *2.5 hours* read the project guidance notes
+* *1 hour* read the relevant dissertation paper written by previous CS student
+* *0.5 hour* created GitHub repository and cloned the cookiecutter for the projects
+* *1 hour* wrote status report for week 1
 
-## 22 Sept 2023
+### 23 Sept 2023
 
-* *? hour* meeting with supervisor
+* *0.5 hour* searching for relevant research papers
+
+### 24 Sept 2023
+
+* *4 hours* reading papers 15,22,26 and coming up with relevant questions
+* *1 hour* searching for relevant research papers
+
+## Week 2
+
+### 27 Sept 2023
+
+* *1 hour* reading paper 33
+* *1 hour* learning about data collection and pre-processing
+
+### 28 Sept 2023
+* *3 hours* learning implementation of k-means clustering in python
+
+### 1 Oct 2023
+* *3 hours* learning performance metrics for both supervised and unsupervised learning; searching and reading relevant research papers.
