@@ -7,3 +7,9 @@ y_true, y_pred = [], []
 from sklearn.metrics import accuracy_score
 accuracy = accuracy_score(y_true, y_pred)
 
+# 2. Sensitivity = true positives / (true positives + false negatives)
+# aka recall rate or true positive rate
+# true positives / all actual positives
+from sklearn.metrics import recall_score
+sensitivity = recall_score(y_true, y_pred)
+
