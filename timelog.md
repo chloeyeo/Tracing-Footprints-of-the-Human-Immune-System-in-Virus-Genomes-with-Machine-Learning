@@ -45,3 +45,6 @@
 
 ### 1 Oct 2023
 * *3 hours* learning performance metrics for both supervised and unsupervised learning; searching and reading relevant research papers.
+
+### 5 Oct 2023
+* *4 hours* downloading and learning influenza A virus and unsupervised learning
